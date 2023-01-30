@@ -6,5 +6,8 @@ In this notebook:
   * Used Grad-CAM to visualize how the model predicts.<br>
 
 
+![prediction](https://user-images.githubusercontent.com/62253933/215487265-e87a18d4-7ffb-4e99-8e5e-fe0dc4dec6a3.png)
+
+![grad_cam](https://user-images.githubusercontent.com/62253933/215487350-a539e796-b356-4965-9803-159cf85ec5aa.png)
 
 
