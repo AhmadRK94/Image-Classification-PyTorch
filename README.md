@@ -4,4 +4,5 @@ In this notebook:
   * prepare my custom dataset for the image classification task.
   * Used transfer learning to fine-tune a pre-trained model on my custom dataset.<br>
 
-link for downloading Cats vs Dogs dataset: 
+
+
